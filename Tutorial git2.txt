@@ -1,1 +1,8 @@
-teste testestestestestestes cifasdjflkasdjfljsdlkfjsalkjfsdjgiorwetakersfdx
+1)Clique no botão + que fica do lado direito da tela e selecione novo repositório
+2) crie o nome para o novo repositório no campo:
+ 
+3) clique em criar repositório
+4) clique em carregar um arquivo existente
+5) Clique em escolher o arquivo e importe o mesmo.
+6) clique no botão confirmar as alterações
+E prontinho.
